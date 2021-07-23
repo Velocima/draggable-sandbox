@@ -1,0 +1,17 @@
+body {
+	display: flex;
+}
+
+.container {
+	width: 140px;
+	margin: 100px;
+	padding: 20px;
+	background-color: aqua;
+}
+
+.moveable {
+	height: 100px;
+	width: 100px;
+	margin: 20px;
+	background-color: red;
+}
